@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Estado del proyecto: Preparado para la entrega
+=======
+Estado del proyecto: en validación.
+
+>>>>>>> 399c9ff585c7a5b6b40a352fc1f5d8c426ca4e0f
 =======
 Estado del proyecto: en validación.
 
