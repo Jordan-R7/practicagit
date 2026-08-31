@@ -13,6 +13,6 @@ public class StatusController : ControllerBase
     [HttpGet("team")]
     public IActionResult GetTeamStatus()
     {
-        return Ok(new { team = "NOMBRE_DEL_EQUIPO", status = "Ready" });
+        return Ok(new { team = "Error404", status = "Ready" });
     }
 }
