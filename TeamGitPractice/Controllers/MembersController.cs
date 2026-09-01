@@ -31,10 +31,10 @@ public class MembersController : ControllerBase
 "Samuel Maya"
 
 };
+        return Ok(members);
+    }
 
-	}
 
-return Ok(members);
 
 	[HttpGet("count")]
 
